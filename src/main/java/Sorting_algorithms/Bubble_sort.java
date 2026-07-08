@@ -23,7 +23,7 @@ public class Bubble_sort {
 	
 		}
 		for (int print_nums : nums) {
-			System.out.println(print_nums);
+			System.out.print(print_nums);
 					}
 		
 		
